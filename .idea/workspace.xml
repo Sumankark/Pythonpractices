@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc4c419-33c2-4762-9079-c50763376a33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/variable/takeUserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable/type_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable/variable1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+    <list default="true" id="abc4c419-33c2-4762-9079-c50763376a33" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/List/list_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/if_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/whileloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable/operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable/python_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/variable/python_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable/takeUserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/variable/takeUserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable/type_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/variable/type_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,23 +30,29 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sumankark"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sumankark&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sumankark/Pythonpractices.git",
-    "accountId": "a1765c40-3f11-4a2a-8c30-be67deb6afd8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sumankark/Pythonpractices.git&quot;,
+    &quot;accountId&quot;: &quot;a1765c40-3f11-4a2a-8c30-be67deb6afd8&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2rvk0zXWHBbRYQcwAAne6A1lS1v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,10 +61,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exercise.executor": "Run",
     "Python.first.executor": "Run",
+    "Python.forloop.executor": "Run",
+    "Python.if_statement.executor": "Run",
+    "Python.list_basic.executor": "Run",
+    "Python.operator.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.python_string.executor": "Run",
     "Python.takeUserInput.executor": "Run",
     "Python.type_conversion.executor": "Run",
     "Python.variable1.executor": "Run",
+    "Python.whileloops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -73,6 +94,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737446716181</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1737450606239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737450606239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
